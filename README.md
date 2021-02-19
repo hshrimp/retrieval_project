@@ -1,4 +1,4 @@
-# MyProject
+# 课程设计
 课程：高级数据库系统与实现
 授课：李锐老师
 组员：wushaohong、linjieyi、wangjili
